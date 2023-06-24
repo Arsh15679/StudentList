@@ -36,7 +36,7 @@ namespace CRUD_BL_MVC.Transaction
 
 						oStudent_List.Add(olist);
 					}
-					
+
 				}
 				return oStudent_List;
 			}
@@ -74,8 +74,8 @@ namespace CRUD_BL_MVC.Transaction
 				if (ds.Tables[0].Rows.Count > 0)
 				{
 					input.Id = Convert.ToInt32(dt.Rows[0]["Id"].ToString());
-				input.name = dt.Rows[0]["Name"].ToString();
-				input.college = dt.Rows[0]["College"].ToString();
+					input.name = dt.Rows[0]["Name"].ToString();
+					input.college = dt.Rows[0]["College"].ToString();
 
 				}
 				return input;
