@@ -1,0 +1,15 @@
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\bin\Debug\net6.0\CRUD_DL_MVC.deps.json
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\bin\Debug\net6.0\CRUD_DL_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\bin\Debug\net6.0\CRUD_DL_MVC.pdb
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\bin\Debug\net6.0\CRUD_BO_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\bin\Debug\net6.0\CRUD_BO_MVC.pdb
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.csproj.AssemblyReference.cache
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.AssemblyInfoInputs.cache
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.AssemblyInfo.cs
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.csproj.CoreCompileInputs.cache
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.csproj.CopyComplete
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\refint\CRUD_DL_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\CRUD_DL_MVC.pdb
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_DL_API\obj\Debug\net6.0\ref\CRUD_DL_MVC.dll

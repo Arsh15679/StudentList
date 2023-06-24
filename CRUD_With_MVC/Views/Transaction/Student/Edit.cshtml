@@ -1,0 +1,27 @@
+﻿@model CRUD_BO_MVC.Transaction.StudentBO
+
+ 
+<form method="post" asp-controller="Student" asp-action="Update_Student_By_Id"> 
+    <input type="hidden" asp-for="Id"  />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-black">Edit Student</h2>
+            <hr />
+        </div>
+       
+               <div class="mb-3">
+            <label >Name</label>
+            <input  asp-for="name" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label >College</label>
+            <input  asp-for="college" class="form-control" />
+        </div>
+               
+        
+        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+        <a asp-controller="Student" asp-action="StudentList" class="btn btn-secondary" style="width:150px">
+            Back to list
+        </a>
+    </div>
+</form>

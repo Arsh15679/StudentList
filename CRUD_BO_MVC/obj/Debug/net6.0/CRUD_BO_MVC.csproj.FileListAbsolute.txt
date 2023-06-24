@@ -1,0 +1,12 @@
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\bin\Debug\net6.0\CRUD_BO_MVC.deps.json
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\bin\Debug\net6.0\CRUD_BO_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\bin\Debug\net6.0\CRUD_BO_MVC.pdb
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.csproj.AssemblyReference.cache
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.AssemblyInfoInputs.cache
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.AssemblyInfo.cs
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.csproj.CoreCompileInputs.cache
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\refint\CRUD_BO_MVC.dll
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\CRUD_BO_MVC.pdb
+C:\Local Disk D extends C\.Net Core MVC\CRUD_With_MVC\CRUD_BO_MVC\obj\Debug\net6.0\ref\CRUD_BO_MVC.dll
